@@ -1,0 +1,23 @@
+{
+  "title": "GDCR 2018 for underrepresented groups @ Makers Academy",
+  "url": "https://www.eventbrite.co.uk/e/global-day-of-coderetreat-tickets-51453845838",
+  "moderators": [
+    "Agnes Donat",
+    "@d_ir",
+    "@c089",
+    "@rradczewski"
+  ],
+  "sponsors": [
+    "@makersacademy"
+  ],
+  "location": {
+    "city": "London",
+    "country": "United Kingdom",
+    "coordinates": {
+      "latitude": 51.51728,
+      "longitude": -0.07362
+    },
+    "utcOffset": 0,
+    "timezone": "Europe/London"
+  }
+}
